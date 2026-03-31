@@ -184,7 +184,6 @@ int main()
 {
     BookList bl;
 
-    // ? FIXED: NO LOOP
     bl.addBook("B1","Book1",101,"Author1","ISBN1");
     bl.addBook("B2","Book2",102,"Author2","ISBN2");
     bl.addBook("B3","Book3",103,"Author3","ISBN3");
